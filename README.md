@@ -110,11 +110,13 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 ### Classification Report
 
 
-<img width="577" height="472" alt="Screenshot 2025-09-23 181528" src="https://github.com/user-attachments/assets/9eb6d423-5efb-4373-a190-a37d8f1d07e6" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a9ce876-047a-4630-88ce-2429c47b43e8" />
+
 
 
 ### New Sample Data Prediction
-<img width="927" height="191" alt="image" src="https://github.com/user-attachments/assets/43dbd4ad-d4e0-4864-858f-4fd8c081f74a" />
+<img width="1536" height="1024" alt="PRED" src="https://github.com/user-attachments/assets/dca5c2de-9503-4bb1-b825-25f456c9db7e" />
+
 
 
 ## RESULT
